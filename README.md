@@ -2,7 +2,7 @@
 
 Hi, I'm Maria. I'm a data professional who's passionate in data analytics, statistical modeling, and data visualization. My interests include data cleaning, predictive analytics, survey data analysis, and transforming complex datasets into clear, actionable insights. I'm passionate about using data to support informed decision-making and solve real-world problems.
 
-[View my resume](./Maria-Resume.pdf)
+[View My Resume](./Maria-Resume.pdf)
 
 ---
 
