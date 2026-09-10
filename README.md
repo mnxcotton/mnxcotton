@@ -1,48 +1,33 @@
-name: Update README cards
+<!-- ========================================================
+  🤖 GitHub Profile README — Data Scientist & AI Engineer
+  Replace all placeholders with your own information!
+  ======================================================== -->
 
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
-  workflow_dispatch:
+## 🔬 About Me
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+Hi, I'm Maria. I'm a data professional who's passionate in data analytics, statistical modeling, and data visualization. My interests include data cleaning, predictive analytics, survey data analysis, and transforming complex datasets into clear, actionable insights. I'm passionate about using data to support informed decision-making and solve real-world problems.
 
-    permissions:
-      contents: write
+[View my resume](./Maria-Resume.pdf)
 
-    steps:
-      - uses: actions/checkout@v6
+---
 
-      - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+## 🛠️ Technical Toolkit
 
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+**Programming & Statistical Analysis:** R, SAS, SQL, Python, SPSS  
+**Data Analysis Libraries:** Pandas, NumPy  
+**Machine Learning:** TensorFlow, scikit-learn  
+**Methods:** Data Cleaning, Statistical Modeling, Survey Data Analysis
 
-      - name: Generate pin card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=stats-organization&repo=github-readme-stats
-          path: profile/pin-stats-organization-github-readme-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+---
 
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+## 🤝 Let's Connect
+
+Open to: **ML Research Collabs · Public Health Research · Survey Data Collection · Improving Healthcare Equity**
+
+<p align="center">
+
+</p>
+
+---
+<p align="center"><i>🧠 From <a href="https://github.com/mnxcotton">mnxcotton</a> — Analyzing data, one commit at a time.</i></p>
+      
