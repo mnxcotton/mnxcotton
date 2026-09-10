@@ -7,7 +7,9 @@ Hi, I'm Maria. I'm a data professional who's passionate in data analytics, stati
 ## 🛠️ Technical Toolkit
 
 **Programming & Statistical Analysis:** R, SAS, SQL, Python, SPSS  
+
 **Data Analysis Libraries:** dplyr, ggplot2, Pandas, NumPy
+
 **Machine Learning:** caret, xgboost, randomForest, TensorFlow, scikit-learn  
 
 ---
