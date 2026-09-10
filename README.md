@@ -14,15 +14,5 @@ Hi, I'm Maria. I'm a data professional who's passionate in data analytics, stati
 **Methods:** Data Cleaning, Statistical Modeling, Survey Data Analysis
 
 ---
-
-## 🤝 Let's Connect
-
-Open to: **ML Research Collabs · Public Health Research · Survey Data Collection · Improving Healthcare Equity**
-
-<p align="center">
-
-</p>
-
----
 <p align="center"><i>🧠 From <a href="https://github.com/mnxcotton">mnxcotton</a> — Analyzing data, one commit at a time.</i></p>
       
