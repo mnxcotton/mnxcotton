@@ -7,8 +7,8 @@ Hi, I'm Maria. I'm a data professional who's passionate in data analytics, stati
 ## 🛠️ Technical Toolkit
 
 **Programming & Statistical Analysis:** R, SAS, SQL, Python, SPSS  
-**Data Analysis Libraries:** R (dplyr, ggplot2), Python (Pandas, NumPy) 
-**Machine Learning:** R (caret, xgboost, randomForest), Python (TensorFlow, scikit-learn)  
+**Data Analysis Libraries:** R - dplyr, ggplot2, Python - Pandas, NumPy
+**Machine Learning:** R - caret, xgboost, randomForest, Python - TensorFlow, scikit-learn  
 
 ---
 <p align="center"><i>🧠 From <a href="https://github.com/mnxcotton">mnxcotton</a> — Analyzing data, one commit at a time.</i></p>
