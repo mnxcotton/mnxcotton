@@ -11,7 +11,4 @@ Hi, I'm Maria. I'm a data professional who's passionate in data analytics, stati
 **Data Analysis Libraries:** dplyr, ggplot2, Pandas, NumPy
 
 **Machine Learning:** caret, xgboost, randomForest, TensorFlow, scikit-learn  
-
----
-<p align="center"><i>🧠 From <a href="https://github.com/mnxcotton">mnxcotton</a> — Analyzing data, one commit at a time.</i></p>
       
