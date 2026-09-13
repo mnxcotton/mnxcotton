@@ -10,6 +10,6 @@ Hi, I'm Maria. I'm a recent statistics graduate who's passionate in health data 
 
 - **R**: `car`, `caret`, `data.table`, `dplyr`, `e1071`, `glmnet`, `ggplot2`, `knitr`, `lmtest`, `markdown`, `MASS`, `pROC`, `randomForest`, `ROCR`, `tidyr`, `xgboost`
 - **Python**: `keras`, `matplotlib`, `NumPy`, `pandas`, `scikit-learn`, `seaborn`, `TensorFlow`
-- **SAS**: `PROC FREQ`, `PROC MEANS`, `PROC REG`, `PROC LOGISTIC`, `PROC GLM`'
+- **SAS**: `PROC FREQ`, `PROC GENMOD`, `PROC MEANS`, `PROC MIXED`, `PROC REG`, `PROC LOGISTIC`, `PROC GLM`, `PROC SEQDESIGN`, `PROC SEQTEST1`
 
       
