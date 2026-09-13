@@ -8,7 +8,7 @@ Hi, I'm Maria. I'm a recent statistics graduate who's passionate in health data 
 
 **Programming & Statistical Analysis:** Python, R, SAS, SQL, SPSS  
 
-- **R**: `caret`, `ggplot2`
+- **R**: `caret`, `dplyr`, `glmnet`, `ggplot2`, `markdown`, `pROC`, `ROCR`
 - **Python**: `NumPy`, `pandas`
 
       
