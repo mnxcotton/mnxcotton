@@ -9,6 +9,7 @@ Hi, I'm Maria. I'm a recent statistics graduate who's passionate in health data 
 **Programming & Statistical Analysis:** Python, R, SAS, SQL, SPSS  
 
 ***R***: caret, ggplot2
+
 ***Python***: NumPy, pandas
 
       
