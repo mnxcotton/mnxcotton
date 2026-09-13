@@ -10,6 +10,6 @@ Hi, I'm Maria. I'm a recent statistics graduate who's passionate in health data 
 
 - **R**: `car`, `caret`, `data.table`, `dplyr`, `e1071`, `glmnet`, `ggplot2`, `knitr`, `lmtest`, `markdown`, `MASS`, `pROC`, `randomForest`, `ROCR`, `tidyr`, `xgboost`
 - **Python**: `keras`, `matplotlib`, `NumPy`, `pandas`, `scikit-learn`, `seaborn`, `TensorFlow`
-- - **SQL**: Basic queries, aggregate functions, JOINs, subqueries, data cleaning and transformations
+- **SQL**: Basic queries, aggregate functions, JOINs, subqueries, data cleaning and transformations
 
       
