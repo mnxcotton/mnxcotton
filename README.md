@@ -6,9 +6,8 @@ Hi, I'm Maria. I'm a recent statistics graduate who's passionate in health data 
 
 ## 🛠️ Technical Toolkit
 
-**Programming & Statistical Analysis:** R, SAS, SQL, Python, SPSS  
-
-**Data Analysis Libraries:** dplyr, ggplot2, Pandas, NumPy
+**Programming & Statistical Analysis:** Python, R, SAS, SQL, SPSS  
+***R***:
 
 **Machine Learning:** caret, xgboost, randomForest, TensorFlow, scikit-learn  
       
