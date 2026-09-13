@@ -9,6 +9,6 @@ Hi, I'm Maria. I'm a recent statistics graduate who's passionate in health data 
 **Programming & Statistical Analysis:** Python, R, SAS, SQL, SPSS  
 
 - **R**: `car`, `caret`, `data.table`, `dplyr`, `e1071`, `glmnet`, `ggplot2`, `knitr`, `lmtest`, `markdown`, `MASS`, `pROC`, `randomForest`, `ROCR`, `tidyr`, `xgboost`
-- **Python**: `Keras`, `Matplotlib`, `NumPy`, `pandas`, `Scikit-learn`, `Seaborn`, `TensorFlow`
+- **Python**: `keras`, `matplotlib`, `NumPy`, `pandas`, `scikit-learn`, `seaborn`, `TensorFlow`
 
       
