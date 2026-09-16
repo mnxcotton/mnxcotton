@@ -8,7 +8,7 @@ Hi, I'm Maria. I'm a recent statistics graduate who's passionate in health data 
 
 **Programming & Statistical Analysis:** Python, R, SAS, SQL, SPSS  
 
-- **R**: `car`, `caret`, `data.table`, `dplyr`, `e1071`, `glmnet`, `ggplot2`, `knitr`, `lmtest`, `markdown`, `MASS`, `pROC`, `randomForest`, `ROCR`, `tidyr`, `xgboost`
+- **R**: `car`, `caret`, `data.table`, `dplyr`, `e1071`, `glmnet`, `ggplot2`, `lmtest`, `markdown`, `MASS`, `pROC`, `randomForest`, `tidyr`, `xgboost`
 - **Python**: `keras`, `matplotlib`, `NumPy`, `pandas`, `scikit-learn`, `seaborn`, `TensorFlow`
 - **SAS**: `PROC FREQ`, `PROC GENMOD`, `PROC MEANS`, `PROC MIXED`, `PROC REG`, `PROC LOGISTIC`, `PROC GLM`, `PROC SGPLOT`, `PROC SEQDESIGN`
 
