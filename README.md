@@ -1,6 +1,6 @@
 ## 🔬 About Me
 
-Hi, I'm Maria. I'm a recent statistics graduate who's passionate in health data analytics. I enjoy transforming and analyzing complex datasets into clear, interpretable insights to support informed decision-making and solve real-world problems.
+Hi, I'm Maria. I'm a recent statistics graduate who's passionate in data analytics. I enjoy transforming and analyzing complex datasets into clear, interpretable insights to support informed decision-making and solve real-world problems.
 
 ---
 
